@@ -40,7 +40,7 @@ body {
 }
 
 .image-inner {
-  background: url('/images/illustration-woman-online-desktop.svg');
+  background: url('../images/illustration-woman-online-desktop.svg');
   height: 100%;
   background-repeat: no-repeat;
   background-position: 120% center;
@@ -137,7 +137,7 @@ body {
   }
 
   .image-col {
-    background: url('/images/bg-pattern-mobile.svg') no-repeat;
+    background: url('../images/bg-pattern-mobile.svg') no-repeat;
     background-position: center 590%;
   }
 
